@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the chapter 2. This is an edit to master.
+=======
+This is the chapter 2. This is on the exp branch.
+>>>>>>> exp
